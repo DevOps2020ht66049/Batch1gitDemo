@@ -6,3 +6,5 @@ resource "azurerm_aadb2c_directory" "example" {
   resource_group_name     = "example-rg"
   sku_name                = "PremiumP1"
 }
+
+Change1
