@@ -7,10 +7,4 @@ resource "azurerm_aadb2c_directory" "example" {
   sku_name                = "PremiumP1"
 }
 
-Change1
 
-change2
-
-change3
-
-change4
